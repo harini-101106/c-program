@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    char ch;
+    printf("%d",sizeof(ch));
+    return 0;
+}
